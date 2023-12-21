@@ -1,5 +1,5 @@
 {
-    "name": "dmattern/jaccard",
+    "name": "yamut/jaccard",
     "description": "Jaccard cofficient implementation",
     "license": "WTFPL",
     "minimum-stability": "dev",
