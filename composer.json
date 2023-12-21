@@ -1,6 +1,6 @@
 {
     "name": "yamut/jaccard",
-    "description": "Jaccard cofficient implementation",
+    "description": "Jaccard coefficient implementation",
     "license": "WTFPL",
     "minimum-stability": "dev",
     "autoload": {
