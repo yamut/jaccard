@@ -1,0 +1,22 @@
+{
+    "name": "dmattern/jaccard",
+    "description": "Jaccard cofficient implementation",
+    "license": "WTFPL",
+    "autoload": {
+        "psr-4": {
+            "Dmattern\\Jaccard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dan Mattern",
+            "email": "dan@danmattern.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
